@@ -1,0 +1,115 @@
+/* CSS Document */
+
+body 			{background-color: #fff; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/main_back_tile.gif);   margin: 0px 0px 0px 0px; height: 100%; }
+p, table, td, select, input, textarea, option, label, .label 		
+				{ font: normal 11px Verdana, Arial, sans-serif; font-color:#ffcccc; }
+		
+		
+ INPUT {
+ background-color: #FFFF66;
+ color: black;
+ font-family: arial, verdana, ms sans serif;
+ font-size: 11px
+ }		
+
+/*FFFF66*/
+.altTextField {
+background-color: #FFFF66;
+border:none ;
+border:0px;
+
+border-style:none;
+border-width:0px;
+border-color:#FFFF66;
+border:solid  0 #FFFF66;
+color: #000000;
+padding:0;
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+outline: 0px;
+white-space: nowrap;
+/* filter:alpha(opacity=-0); -moz-opacity:0.0; opacity:0.0; -khtml-opacity:.0 */
+
+ }				
+
+
+/*INPUT.text		{border:0px solid;}
+				{background-color: #FFFF66;}
+				{border:none;}
+*/				
+
+.blogTitle			{ font-weight: heavy; font: 20px Arial, sans-serif; color: #FF9900; padding: 5px 0px 5px 0px;  }
+
+.blogSubTitle			{ font-weight: heavy; font: 12px  Arial, sans-serif; color: #000000; padding: 5px 0px 5px 0px;  }
+
+
+.blogName1			{ font-weight: heavy; font: 12px  Verdana, Arial, sans-serif; color: #CC3300; padding: 0px 0px 0px 0px;  }
+
+.blogName2			{ font-weight: heavy; font: 12px  Verdana, Arial, sans-serif; color: #CC6600; padding: 0px 0px 0px 0px;  }
+
+.blogName3			{ font-weight: heavy; font: 12px  Verdana, Arial, sans-serif; color: #66CC00; padding: 0px 0px 0px 0px;  }
+
+.blogName4			{ font-weight: heavy; font: 12px  Verdana, Arial, sans-serif; color: #006699; padding: 0px 0px 0px 0px;  }
+
+
+.blogLink1			{ font-weight: heavy; font: 10px  Verdana, Arial, sans-serif; color: #000000; padding: 0px 0px 0px 0px; text-decoration:none;  }
+
+.blogLink2			{ font-weight: heavy; font: 10px  Verdana, Arial, sans-serif; color: #FF6600; padding: 0px 0px 0px 0px;  text-decoration:none; }
+
+.blogLink3			{ font-weight: heavy; font: 10px  Verdana, Arial, sans-serif; color: #339900; padding: 0px 0px 0px 0px; text-decoration:none;  }
+
+.blogLink4			{ font-weight: heavy; font: 10px  Verdana, Arial, sans-serif; color: #6699CC; padding: 0px 0px 0px 0px;  text-decoration:none; }
+
+ 
+ 
+.blogtext			{ font: 10px  Verdana, Arial, sans-serif; color: #666666; padding: 0px 20px 0px 0px;  }
+
+.copy			{ font: 9px  Verdana, Arial, sans-serif; color: #666666; padding: 0px 0px 0px 0px;  }
+
+#oj {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/oj_back.gif); width:370px; height:210px;  z-index:2; }
+
+#art1 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art2 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art3 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art4 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art5 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art6 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art7 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+#art8 {  position:relative; background-image: url(/web/20060511135449im_/http://cdn.aim.com/you/i/artist_backgrounds.gif); width:365px; height:112px;  z-index:2; }
+
+
+/* these classes are for page 2 */
+
+.secTitle			{ font: 24px  Arial, sans-serif; color: #000000; padding: 0px 0px 0px 0px;  }
+
+.artistTitle			{ font: 14px  Arial, sans-serif; color: #000000; padding: 0px 0px 0px 0px;  }
+
+.arttext			{ font: 10px  Verdana, Arial, sans-serif; color: #000000; padding: 0px 20px 0px 0px;  }
+
+/*
+     FILE ARCHIVED ON 13:54:49 May 11, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:10:44 May 19, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.946
+  exclusion.robots: 0.725
+  exclusion.robots.policy: 0.681
+  esindex: 0.018
+  cdx.remote: 25.885
+  LoadShardBlock: 558.308 (3)
+  PetaboxLoader3.datanode: 119.719 (4)
+  PetaboxLoader3.resolve: 573.869 (3)
+  load_resource: 229.466
+*/
