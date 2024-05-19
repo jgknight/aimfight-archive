@@ -2,7 +2,7 @@
 Collection of historical information and assets related to the AIMFight.com website. AIM Fight was a website operated by AIM/AOL from 2005-2013 which allowed you to compare the popularity of any two screennames. 
 
 ## Live Demo
-You can access a live demo of the AIM Fight website at the GitHub pages url, https://aimfight-archive.github.io/
+You can access a live demo of the AIM Fight website at the GitHub pages url, https://jgknight.github.io/aimfight-archive/
 
 The website uses a static results file, so scores will be the same regardless of what screenname is entered.
 
